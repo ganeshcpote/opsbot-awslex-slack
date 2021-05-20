@@ -1,4 +1,4 @@
-# OpsBot Using Amazon Lex and Slack
+# Cloud OpsBot Using Amazon Lex and Slack
 We are using the [multi-cloud deployment](https://github.com/ganeshcpote/terraform-multicloud-example) example from Jenkins to the below demo. The slack bot will interact with us followed by required questions to start the Jenkins build (Jenkins Parameter) to provision AWS infrastructure. Onde deployment is done, an email notification will trigger to the user and online hosted online on AWS environment
 
 ## Step 1 : Write Lambda Code
