@@ -25,7 +25,7 @@ We are using the [multi-cloud deployment](https://github.com/ganeshcpote/terrafo
 * [Step 4 : Test Integration](https://docs.aws.amazon.com/lex/latest/dg/slack-bot-test.html)
 
 ## Demo - Interact with Slack "Cloud Service" Bot
-![Watch the Video](/video/play.gif)
+<img src="/video/play.gif" width="70%" height="70%">
 
 ## Jenkins Execution
 * ![opsbot](https://github.com/ganeshcpote/terraform-multicloud-example/blob/master/images/jenkins.PNG)
