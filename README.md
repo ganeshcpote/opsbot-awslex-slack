@@ -28,10 +28,10 @@ We are using the [multi-cloud deployment](https://github.com/ganeshcpote/terrafo
 <img src="/video/play.gif" width="70%" height="70%">
 
 ## Jenkins Execution
-* ![opsbot](https://github.com/ganeshcpote/terraform-multicloud-example/blob/master/images/jenkins.PNG)
+![opsbot](https://github.com/ganeshcpote/terraform-multicloud-example/blob/master/images/jenkins.PNG)
 
 ## Email Notification
-* ![opsbot](https://github.com/ganeshcpote/terraform-multicloud-example/blob/master/images/email.png)
+![opsbot](https://github.com/ganeshcpote/terraform-multicloud-example/blob/master/images/email.png)
 
 ## AWS Apache Website
-* ![opsbot](https://github.com/ganeshcpote/terraform-multicloud-example/blob/master/images/aws-web.png)
+![opsbot](https://github.com/ganeshcpote/terraform-multicloud-example/blob/master/images/aws-web.png)
