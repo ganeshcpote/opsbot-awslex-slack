@@ -1,8 +1,5 @@
 # OpsBot Using Amazon Lex and Slack
-This project shows an example how we can use the Amazon Lex Service to build our own Slack Bot to perform the daily cloud operations like provisioning of resources
-
-# Introduction
-We are using the [multi-cloud deployment example](https://github.com/ganeshcpote/terraform-multicloud-example) from Jenkins to the below demo. The slack bot will interact with us followed by questions required to start the Jenkins build (Jenkins Parameter) to provision AWS infrastructure.
+We are using the [multi-cloud deployment](https://github.com/ganeshcpote/terraform-multicloud-example) example from Jenkins to the below demo. The slack bot will interact with us followed by required questions to start the Jenkins build (Jenkins Parameter) to provision AWS infrastructure. Onde deployment is done, an email notification will trigger to the user and online hosted online on AWS environment
 
 ## Step 1 : Write Lambda Code
 * Create Python based Lambda function "TriggerJenkins" which process the user inputs
